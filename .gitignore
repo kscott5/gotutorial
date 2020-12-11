@@ -1,6 +1,9 @@
 # Mac OS X files
 .DS_Store
 
+# vi swap file
+*.swp
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
